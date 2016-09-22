@@ -5,7 +5,6 @@ def swap(array, i, j):
     array[i] = array[j]
     array[j] = tmp
 
-
 def partition(array, start, end):
     pivot = array[end]
     L = start
@@ -21,16 +20,15 @@ def partition(array, start, end):
             L += 1
     return R
 
-
-def _quicksort(array, start, end):
+def _quick_sort(array, start, end):
     if start < end:
         split = partition(array, start, end)
-        _quicksort(array, start, split - 1)
-        _quicksort(array, split + 1, end)
+        _quick_sort(array, start, split - 1)
+        _quick_sort(array, split + 1, end)
+    return array
 
-
-def quicksort(array):
-    _quicksort(array, 0, len(array) - 1)
+def quick_sort(array):
+    return _quick_sort(array, 0, len(array) - 1)
 
 
 if __name__ == "__main__":
@@ -43,6 +41,5 @@ if __name__ == "__main__":
         input_function = input
 
     user_input = input_function('Enter numbers separated by a comma:\n')
-    unsorted = [int(item) for item in user_input.split(',')]
-    quicksort(unsorted)
-    print(unsorted)
+    unsorted = [int(item) for item in user_input.split(',')]    
+    print(quick_sort(unsorted))

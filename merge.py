@@ -1,34 +1,35 @@
 from __future__ import print_function
 
-def _mergesort(array, start, end):
+def _mergesort(unsorted, start, end):
     mid = (start + end)/2
     if start < end:
-        _mergesort(array, start, mid)
-        _mergesort(array, mid+1, end)
+        _mergesort(unsorted, start, mid)
+        _mergesort(unsorted, mid+1, end)
     elif start == end: return
 
     L = start; R = mid+1
     tmp_array = []
     while ( L <= mid and R <= end):
-        if (array[L] < array[R]):
-            tmp_array.append(array[L])
+        if (unsorted[L] < unsorted[R]):
+            tmp_array.append(unsorted[L])
             L += 1
         else:
-            tmp_array.append(array[R])
+            tmp_array.append(unsorted[R])
             R += 1
 
     if L <= mid:
-        tmp_array += array[L:]
+        tmp_array += unsorted[L:]
     else:
-        tmp_array += array[R:]
+        tmp_array += unsorted[R:]
 
     i = 0;
     while (start <= end):
-        array[start] = tmp_array[i]
+        unsorted[start] = tmp_array[i]
         start += 1; i += 1;
+    return unsorted
 
-def mergesort(array):
-    _mergesort(array, 0, len(array)-1)
+def merge_sort(unsorted):
+    return _mergesort(unsorted, 0, len(unsorted)-1)
 
 if __name__ == "__main__":
     import sys    
@@ -41,5 +42,4 @@ if __name__ == "__main__":
 
     user_input = input_function('Enter numbers separated by a comma:\n')
     unsorted = [int(item) for item in user_input.split(',')]
-    mergesort(unsorted)
-    print(unsorted)
+    print(merge_sort(unsorted))

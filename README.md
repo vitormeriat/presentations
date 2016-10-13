@@ -1,7 +1,19 @@
 # Basic Sorting in Python
 
 
-Basic sorting algorithms written in python.
+Basic sorting algorithms written in python. This is a simple python implementation of the sorting algorithms.
+
+For doctests run following command:
+```
+python -m doctest -v [algorithm]_sort.py
+```
+
+For manual testing run:
+```
+python [algorithm]_sort.py
+```
+
+# Documentation
 
 ## Quick Sort
 ![alt tag](https://upload.wikimedia.org/wikipedia/commons/6/6a/Sorting_quicksort_anim.gif)

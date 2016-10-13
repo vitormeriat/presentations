@@ -28,8 +28,24 @@ def _mergesort(unsorted, start, end):
         start += 1; i += 1;
     return unsorted
 
-def merge_sort(unsorted):
-    return _mergesort(unsorted, 0, len(unsorted)-1)
+def merge_sort(array):
+    """
+    Simple implementation of the merge sort algorithm in Python
+
+    :param array: some mutable ordered array with heterogeneous comparable items inside
+    :return: the same array ordered by ascending
+
+    Examples:
+    >>> merge_sort([0, 5, 3, 2, 2])
+    [0, 2, 2, 3, 5]
+
+    >>> merge_sort([])
+    []
+
+    >>> merge_sort([-2, -5, -45])
+    [-45, -5, -2]
+    """
+    return _mergesort(array, 0, len(array)-1)
 
 if __name__ == "__main__":
     import sys    

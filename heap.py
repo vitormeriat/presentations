@@ -14,14 +14,30 @@ def heapify(unsorted, index, heap_size):
         unsorted[largest], unsorted[index] = unsorted[index], unsorted[largest]
         heapify(unsorted, largest, heap_size)
 
-def heap_sort(unsorted):
-    n = len(unsorted)
+def heap_sort(array):
+    """
+    Simple implementation of the heap sort algorithm in Python
+    :param array: some mutable ordered array with heterogeneous comparable items inside
+    :return: the same array ordered by ascending
+
+    Examples:
+    >>> heap_sort([0, 5, 3, 2, 2])
+    [0, 2, 2, 3, 5]
+
+    >>> heap_sort([])
+    []
+
+    >>> heap_sort([-2, -5, -45])
+    [-45, -5, -2]
+    """
+
+    n = len(array)
     for i in range(n // 2 - 1, -1, -1):
-        heapify(unsorted, i, n)
+        heapify(array, i, n)
     for i in range(n - 1, 0, -1):
-        unsorted[0], unsorted[i] = unsorted[i], unsorted[0]
-        heapify(unsorted, 0, i)
-    return unsorted
+        array[0], array[i] = array[i], array[0]
+        heapify(array, 0, i)
+    return array
 
 if __name__ == '__main__':
     import sys

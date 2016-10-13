@@ -7,6 +7,22 @@ def swap(array, i, j):
 
 
 def selection_sort(array):
+    """
+    Simple implementation of the selection sort algorithm in Python
+    :param array: Some mutable ordered array with heterogeneous comparable items inside
+    :return: The same array ordered by ascending    
+
+    Examples:
+    >>> selection_sort([0, 5, 3, 2, 2, -8])
+    [-8, 0, 2, 2, 3, 5]
+
+    >>> selection_sort([])
+    []
+
+    >>> selection_sort([-2, -5, -45, 99])
+    [-45, -5, -2, 99]
+    """
+
     for i in range(0, len(array)):
         Ismallest = i
         for j in range(i + 1, len(array)):

@@ -28,6 +28,22 @@ def _quick_sort(array, start, end):
     return array
 
 def quick_sort(array):
+    """
+    Simple implementation of quick sort algorithm in Python
+
+    :param array: some mutable ordered array with heterogeneous comparable items inside
+    :return: the same array ordered by ascending
+
+    Examples:
+    >>> quick_sort([0, 5, 3, 2, 2])
+    [0, 2, 2, 3, 5]
+
+    >>> quick_sort([])
+    []
+
+    >>> quick_sort([-2, -5, -45])
+    [-45, -5, -2]
+    """
     return _quick_sort(array, 0, len(array) - 1)
 
 

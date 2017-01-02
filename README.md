@@ -13,6 +13,10 @@ For manual testing run:
 python [algorithm]_sort.py
 ```
 
+[Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
+
+
+
 # Documentation
 
 ## Quick Sort

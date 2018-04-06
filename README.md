@@ -1,5 +1,3 @@
-# Basic Sorting in Python
+# Welcome! We're glad you found us here.
 
-This project has been moved to [Python Fundamentals](https://github.com/vitormeriat/python-fundamentals). 
-
-> This repository will be deleted soon.
+This is where my public presentations are available. The content is grouped by conference (date/name).

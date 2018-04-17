@@ -3,6 +3,10 @@
 * **Data:** 07-04-2018
 * **Evento:** [MVPConf](https://www.mvpconf.com.br/)
 
+<p align="center">
+  <img width="500" src="../img/07-04-18-mvpconf-slide.png">
+</p>
+
 ## Descrição
 
 Nesta palestra estive falando sobre o que é **Deep Learning**. Esta foi uma visão baseada na visão computacional, onde vimos algumas das dificuldades envolvidas neste campo. 

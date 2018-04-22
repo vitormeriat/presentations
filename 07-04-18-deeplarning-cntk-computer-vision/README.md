@@ -4,7 +4,7 @@
 * **Evento:** [MVPConf](https://www.mvpconf.com.br/)
 
 <p align="center">
-  <img width="500" src="../img/07-04-18-mvpconf-slide.png">
+  <img width="600" src="../img/07-04-18-mvpconf-slide.png">
 </p>
 
 ## Descrição

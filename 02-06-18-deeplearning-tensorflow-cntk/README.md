@@ -1,23 +1,21 @@
-# Desvendando o mundo da Deep Learning com visão computacional e CNTK
+# DeepLearning e visão computacional com CNTK
 
-* **Data:** 07-04-2018
-* **Evento:** [MVPConf](https://www.mvpconf.com.br/)
+* **Data:** 02-06-2018
+* **Evento:** [Visual Studio Summit 2018](http://devprime.one/)
 
 <p align="center">
-  <img width="600" src="../img/07-04-18-mvpconf-slide.png">
+  <img width="600" src="../img/02-06-18-vssummit18-slide.jpg">
 </p>
 
 ## Descrição
 
-Nesta palestra estive falando sobre o que é **Deep Learning**. Esta foi uma visão baseada na visão computacional, onde vimos algumas das dificuldades envolvidas neste campo. 
+Este evento foi dividido em dois dias, ondo no primeiro tive a oportunidade de palestrar no auditório 01 da Microsoft, com a sala cheia. O segundo dia foi uma mesa redonda com uma galera mais especializada e focada no conteúdo em si.
 
-Tanto a questão dos problemas relacionados a disciplina em si (visão computacional), quanto os problemas relacionados a parte da computação.
+Estive falando sobre os problemas inversos e mal-postos envolvendo o campo da visão computacional.
 
-Um outro ponto importante foram os testes mostrando as vantagens de se utilizar processamento na **GPU** em detrimento ao processamento na **CPU** quando falamos de **Deep Learning** e **cálculos matriciais**.
+Falamos como o poder da Nuvem, e neste caso do **Microsoft Azure**, pode nos auxiliar na hora de trabalharmos com os algorítimos de **Deep Learning**.
 
-Outro **benchmark** foi testar efetivamente a velocidade de processamento dos frameworks **CNTK (Microsoft Cognitive Toolkit)** & **TensorFlow** realizando operações simples de **cálculos matriciais** (não comparando todos os aspectos envolvidos).
-
-O grande final foi mostrar **Redes geradoras adversárias ou GANs (Generative Adversarial Networks)**, para a criação de faces com base no famoso dataset **CelebA (CelebFaces Attributes Dataset)**, com mais de 200.000 imagens de celebridades.
+Por final falamos do uso da **AI** na criação de **DeepFake**, e usamos como exemplo uma **Rede geradora adversária (Generative Adversarial Networks)**, para ilutrar o poder da Deep Learning.
 
 ---
 
@@ -29,6 +27,9 @@ O grande final foi mostrar **Redes geradoras adversárias ou GANs (Generative Ad
 
 :alien: <a class="fa fa-twitter" aria-hidden="true" href="https://twitter.com/vitormeriat" target="_blank"> twitter</a> | <a class="fa fa-facebook" aria-hidden="true" href="https://www.facebook.com/vitormeriat/" target="_blank"> facebook</a> | <a class="fa fa-instagram" aria-hidden="true" href="https://www.instagram.com/vitormeriat/" target="_blank"> instagram</a> | <a class="fa fa-linkedin" aria-hidden="true" href="https://www.linkedin.com/in/vitormeriat" target="_blank"> linkedin</a> | <a class="fa fa-youtube" aria-hidden="true" href="https://www.youtube.com/user/vitormeriat/" target="_blank"> youtube</a>
 
-![img](../img/07-04-18-mvpconf.jpg)
+![img](../img/02-06-18-vssummit18-1.jpg)
+<br/>
+![img](../img/02-06-18-vssummit18-4.jpg)
+
 
 #### De coração, muito obrigado a todos os participantes ;)

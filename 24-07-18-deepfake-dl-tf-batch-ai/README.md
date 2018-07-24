@@ -18,6 +18,9 @@ TBA.
 3. [In the days before Photoshop (1984)](https://www.youtube.com/watch?v=SvVJHjzwhzU)
 4. [TensorFlow](https://www.tensorflow.org/)
 5. [Azure Batch AI](https://azure.microsoft.com/en-us/services/batch-ai/)
+6. [FakeApp](https://www.fakeapp.org/)
+7. [In Ictu Oculi: Exposing AI Generated Fake Face
+Videos by Detecting Eye Blinking](https://arxiv.org/pdf/1806.02877.pdf)
 
 ---
 

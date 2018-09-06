@@ -7,6 +7,11 @@
   <img width="600" src="../img/02-azure-bootcamp-slide.jpg">
 </p>
 
+## Material
+
+:floppy_disk: [LINK para a Apresentação no SlideShare](https://www.slideshare.net/VitorMeriat/como-ensinar-uma-mquina-a-escrever-com-deep-learning-cntk-tensorflow-e-azure/VitorMeriat/como-ensinar-uma-mquina-a-escrever-com-deep-learning-cntk-tensorflow-e-azure)
+
+
 ## Descrição
 
 Nesta palestra vimos qual a importância da **Cloud Computing** e sua correlação com as evoluções nas pesquisas e desenvolvimento do que temos de melhor em termos de **Inteligência Artificial**.
@@ -19,6 +24,5 @@ Utilizei o **Microsoft Azure** como player de cloud, mostrando todas as capacida
 
 Por fim falamos de **Redes geradoras adversárias ou GANs (Generative Adversarial Networks)**, para a criação de dígitos e faces com base no famoso dataset **CelebA (CelebFaces Attributes Dataset)**, com mais de 200.000 imagens de celebridades.
 
----
 
 #### De coração, muito obrigado a todos os participantes ;)

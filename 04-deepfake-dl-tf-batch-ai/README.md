@@ -7,6 +7,10 @@
   <img width="600" src="../img/04-esxtechlive-slide.jpg">
 </p>
 
+## Material
+
+:floppy_disk: [LINK para a Apresentação no Youtube](https://www.youtube.com/embed/Bjo-trLsSEI?rel=0&amp;start=3864)
+
 ## Descrição
 
 TBA.
@@ -22,28 +26,5 @@ TBA.
 7. [In Ictu Oculi: Exposing AI Generated Fake Face
 Videos by Detecting Eye Blinking](https://arxiv.org/pdf/1806.02877.pdf)
 
----
-
-
-<style type='text/css'>
-.iframe_container {
-	position: relative;
-	padding-bottom: 56.25%;
-	padding-top: 25px;
-	height: 0;
-}
-
-.iframe_container iframe {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
-}
-</style>
-
-<div class="iframe_container">
-  <iframe src="https://www.youtube.com/embed/Bjo-trLsSEI?rel=0&amp;start=3864" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
-</div>
 
 #### Valeu galera ;)

@@ -7,6 +7,10 @@
   <img width="600" src="../img/03-vssummit18-slide.jpg">
 </p>
 
+## Material
+
+:floppy_disk: [LINK para a Apresentação no SlideShare](https://www.slideshare.net/VitorMeriat/deep-learning-e-viso-computacional-com-cntk)
+
 ## Descrição
 
 Este evento foi dividido em dois dias, ondo no primeiro tive a oportunidade de palestrar no auditório 01 da Microsoft, com a sala cheia. O segundo dia foi uma mesa redonda com uma galera mais especializada e focada no conteúdo em si.

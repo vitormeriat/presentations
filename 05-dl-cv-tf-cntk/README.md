@@ -7,7 +7,10 @@
   <img width="600" src="../img/05-ai-python-slide.png">
 </p>
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/d8FeBJw541aNmG" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none; max-width: 100%;" allowfullscreen> </iframe>
+
+## Material
+
+:floppy_disk: [LINK para a Apresentação no SlideShare](https://www.slideshare.net/VitorMeriat/deep-learning-based-on-computer-vision)
 
 ## Descrição
 

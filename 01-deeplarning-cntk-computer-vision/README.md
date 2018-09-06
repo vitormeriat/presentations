@@ -4,8 +4,12 @@
 * **Evento:** [MVPConf](https://www.mvpconf.com.br/)
 
 <p align="center">
-  <img width="600" src="../img/07-04-18-mvpconf-slide.png">
+  <img width="600" src="../img/01-mvpconf-slide.png">
 </p>
+
+## Material
+
+:floppy_disk: [LINK para a Apresentação no SlideShare](https://www.slideshare.net/VitorMeriat/desvendando-o-mundo-da-deep-learning-viso-computacional-com-cntk/VitorMeriat/desvendando-o-mundo-da-deep-learning-viso-computacional-com-cntk)
 
 ## Descrição
 

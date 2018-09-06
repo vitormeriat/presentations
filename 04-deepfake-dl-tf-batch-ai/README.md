@@ -4,7 +4,7 @@
 * **Evento:** [ESX Tech Live](https://esx-tech-live.azurewebsites.net/)
 
 <p align="center">
-  <img width="600" src="../img/24-07-18-esxtechlive-slide.jpg">
+  <img width="600" src="../img/04-esxtechlive-slide.jpg">
 </p>
 
 ## Descrição
@@ -24,13 +24,26 @@ Videos by Detecting Eye Blinking](https://arxiv.org/pdf/1806.02877.pdf)
 
 ---
 
-#### Author
 
-[Vitor Meriat](http://www.vitormeriat.com.br/) is a computer scientist who is passionate about creating software that will positively change the world we live in.
+<style type='text/css'>
+.iframe_container {
+	position: relative;
+	padding-bottom: 56.25%;
+	padding-top: 25px;
+	height: 0;
+}
 
-<img alt="Vitor Meriat" src="http://www.vitormeriat.com.br/assets/images/profile.jpg" height="50" width="50">
+.iframe_container iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+</style>
 
-:alien: <a class="fa fa-twitter" aria-hidden="true" href="https://twitter.com/vitormeriat" target="_blank"> twitter</a> | <a class="fa fa-facebook" aria-hidden="true" href="https://www.facebook.com/vitormeriat/" target="_blank"> facebook</a> | <a class="fa fa-instagram" aria-hidden="true" href="https://www.instagram.com/vitormeriat/" target="_blank"> instagram</a> | <a class="fa fa-linkedin" aria-hidden="true" href="https://www.linkedin.com/in/vitormeriat" target="_blank"> linkedin</a> | <a class="fa fa-youtube" aria-hidden="true" href="https://www.youtube.com/user/vitormeriat/" target="_blank"> youtube</a>
-
+<div class="iframe_container">
+  <iframe src="https://www.youtube.com/embed/Bjo-trLsSEI?rel=0&amp;start=3864" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
+</div>
 
 #### Valeu galera ;)

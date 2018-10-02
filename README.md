@@ -11,7 +11,7 @@ The content is grouped by conference (number/date/name).
 3. **(02-06-2018) Visual Studio Summit -** Deep Learning e visão computacional com CNTK
 4. **(24-07-2018) ESX TechLive -** Desvendando a Deepfake, com Deep Learning, TensorFlow e Azure Batch A.I
 5. **(04-09-2018) Meetup AI with Python at Microsoft -** Deep Learning based on Computer Vision
-6. **(06-09-2018) Meetup MSP ThecDay -** Introdução a Deep Learning com Microsoft AI
+6. **(01-10-2018) GPU for Deep Learning -** Vídeo com uma introdução a utilização da GPU no processamento de Deep Learning
 
 
 #### Author

@@ -12,6 +12,7 @@ The content is grouped by conference (number/date/name).
 4. **(24-07-2018) ESX TechLive -** Desvendando a Deepfake, com Deep Learning, TensorFlow e Azure Batch A.I
 5. **(04-09-2018) Meetup AI with Python at Microsoft -** Deep Learning based on Computer Vision
 6. **(01-10-2018) GPU for Deep Learning -** Vídeo com uma introdução a utilização da GPU no processamento de Deep Learning
+7. **(20-10-2018) Azure Conference at Microsoft -** Como o Azure me ajudou a trabalhar com Deep Learning
 
 
 #### Author

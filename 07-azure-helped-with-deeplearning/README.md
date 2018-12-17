@@ -17,6 +17,8 @@ Palestra focada na introdução ao ambiente **HPC** da Microsoft para suporte ao
 
 ---
 
-![img](../img/07-A.jpg)
-<br/>
-![img](../img/07-B.jpg)
+<p align="center">
+  <img src="../img/07-A.jpg">
+  <br/>
+  <img src="../img/07-B.jpg">
+</p>

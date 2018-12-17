@@ -23,6 +23,8 @@ Por final falamos do uso da **AI** na criação de **DeepFake**, e usamos como e
 
 ---
 
-![img](../img/03-A.jpg)
-<br/>
-![img](../img/03-B.jpg)
+<p align="center">
+  <img src="../img/03-A.jpg">
+  <br/>
+  <img src="../img/03-B.jpg">
+</p>

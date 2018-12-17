@@ -22,4 +22,6 @@ TBA.
 
 ---
 
-![img](../img/05-A.jpeg)
+<p align="center">
+  <img src="../img/05-A.jpeg">
+</p>

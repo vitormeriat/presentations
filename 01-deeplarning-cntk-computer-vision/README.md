@@ -25,4 +25,6 @@ O grande final foi mostrar **Redes geradoras adversárias ou GANs (Generative Ad
 
 ---
 
-![img](../img/01-A.jpg)
+<p align="center">
+  <img src="../img/01-A.png">
+</p>

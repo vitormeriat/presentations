@@ -4,7 +4,7 @@
 * **Evento:** [Visual Studio Summit 2018](http://devprime.one/)
 
 <p align="center">
-  <img width="600" src="../img/03-vssummit18-slide.jpg">
+  <img src="../img/03.jpg">
 </p>
 
 ## Material
@@ -23,9 +23,6 @@ Por final falamos do uso da **AI** na criação de **DeepFake**, e usamos como e
 
 ---
 
-![img](../img/03-vssummit18-A.jpg)
+![img](../img/03-A.jpg)
 <br/>
-![img](../img/03-vssummit18-B.jpg)
-
-
-#### De coração, muito obrigado a todos os participantes ;)
+![img](../img/03-B.jpg)

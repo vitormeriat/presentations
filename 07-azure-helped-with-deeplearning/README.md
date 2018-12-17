@@ -4,7 +4,7 @@
 * **Evento:** Azure Conference at Microsoft
 
 <p align="center">
-  <img width="600" src="../img/07-azure-helped-with-deeplearning.jpg">
+  <img src="../img/07.jpg">
 </p>
 
 ## Material
@@ -14,3 +14,9 @@
 ## Descrição
 
 Palestra focada na introdução ao ambiente **HPC** da Microsoft para suporte ao trabalho com **Deep Learning**, em conjunto com a introdução ao **CNTK**.
+
+---
+
+![img](../img/07-A.jpg)
+<br/>
+![img](../img/07-B.jpg)

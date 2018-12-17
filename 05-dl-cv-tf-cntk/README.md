@@ -4,7 +4,7 @@
 * **Evento:** [Meetup AI with Python at Microsoft](https://www.meetup.com/pt-BR/DevelopersBR/events/254075042/)
 
 <p align="center">
-  <img width="600" src="../img/05-ai-python-slide.png">
+  <img src="../img/05.png">
 </p>
 
 
@@ -22,7 +22,4 @@ TBA.
 
 ---
 
-![img](../img/05-ai-python.jpeg)
-<br/>
-
-#### Valeu galera ;)
+![img](../img/05-A.jpeg)

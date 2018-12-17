@@ -4,7 +4,7 @@
 * **Evento:** [MVPConf](https://www.mvpconf.com.br/)
 
 <p align="center">
-  <img width="600" src="../img/01-mvpconf-slide.png">
+  <img src="../img/01.png">
 </p>
 
 ## Material
@@ -25,6 +25,4 @@ O grande final foi mostrar **Redes geradoras adversárias ou GANs (Generative Ad
 
 ---
 
-![img](../img/01-mvpconf.jpg)
-
-#### De coração, muito obrigado a todos os participantes ;)
+![img](../img/01-A.jpg)

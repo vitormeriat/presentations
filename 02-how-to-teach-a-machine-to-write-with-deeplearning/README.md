@@ -4,7 +4,7 @@
 * **Evento:** [Azure Bootcamp Campinas 2018](https://azurebootcamp.venturus.org.br/)
 
 <p align="center">
-  <img width="600" src="../img/02-azure-bootcamp-slide.jpg">
+  <img src="../img/02.jpg">
 </p>
 
 ## Material
@@ -23,6 +23,3 @@ Um outro ponto importante foram os testes mostrando as vantagens de se utilizar 
 Utilizei o **Microsoft Azure** como player de cloud, mostrando todas as capacidades existentes no Azure para processamento de GPU ou com foco em DeepLearning.
 
 Por fim falamos de **Redes geradoras adversárias ou GANs (Generative Adversarial Networks)**, para a criação de dígitos e faces com base no famoso dataset **CelebA (CelebFaces Attributes Dataset)**, com mais de 200.000 imagens de celebridades.
-
-
-#### De coração, muito obrigado a todos os participantes ;)

@@ -4,7 +4,7 @@
 * **Evento:** [ESX Tech Live](https://esx-tech-live.azurewebsites.net/)
 
 <p align="center">
-  <img width="600" src="../img/04-esxtechlive-slide.jpg">
+  <img src="../img/04.jpg">
 </p>
 
 ## Material
@@ -25,6 +25,3 @@ TBA.
 6. [FakeApp](https://www.fakeapp.org/)
 7. [In Ictu Oculi: Exposing AI Generated Fake Face
 Videos by Detecting Eye Blinking](https://arxiv.org/pdf/1806.02877.pdf)
-
-
-#### Valeu galera ;)

@@ -15,6 +15,7 @@ The content is grouped by conference (number/date/name).
 7. [**(20-10-2018) Azure Conference at Microsoft -** Como o Azure me ajudou a trabalhar com Deep Learning](07-azure-helped-with-deeplearning)
 8. [**(10-12-2018) Meetup AI at ESX-** Natural Language Processing e Computational Linguistics](08-nlp-computational-linquistics)
 9. [**(15-12-2018) Global AI Bootcamp at Lambda3-** DeepLearning with CNTK](09-deeplearning-cntk)
+10. [**(13-04-2019) Criando arte com Deep Learning - CNTK - TensorFlow](10-create-art)
 
 ---
 
